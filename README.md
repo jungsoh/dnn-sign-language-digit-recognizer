@@ -7,4 +7,4 @@ We have 1080 training examples and 120 test examples, where each example is of s
 ![One-hot encoding of class labels](images/hands.png)
 
 ## Neural network architecture
-We used only TensorFlow and Keras API to build a neural network model. The model we build has 3 layers: INPUT -> LINEAR -> RELU -> LINEAR -> RELU -> LINEAR -> SOFTMAX -> OUTPUT. For training, we used TensorFlow `GradientTape` to perform training.
+We used only TensorFlow and Keras API to build a neural network model and train it with `GradientTape`. The model we build has 3 layers: INPUT -> LINEAR -> RELU -> LINEAR -> RELU -> LINEAR -> SOFTMAX -> OUTPUT.
