@@ -1,4 +1,4 @@
-# Deep neural network: Sign language digit recognition
+# Deep neural network: Sign language recognition
 Recognizing multiple classes of objects from images is a common computer vision task. Here we have a 6-class problem where we want to recognize 6 different digits (0, 1, 2, 3, 4, 5) of [American Sign Language](https://en.wikipedia.org/wiki/American_Sign_Language) given an image of a hand. We build a neural network s for this multi-class classification task using TensorFlow. I did this project in the [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network) course as part of the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning).
 
 ## Datasets
